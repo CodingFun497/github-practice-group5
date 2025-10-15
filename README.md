@@ -135,6 +135,7 @@ Add your name and favorite Bay Area sports team below. Each person should add ON
 <!-- Students: Add your name on a new line below. DO NOT delete other students' names! -->
 - William Grefaldeo - Favorite Team: Golden State Warriors
 - Kour, Thaisinge - Favorite Team: San Jose Sharks
+- Jimenez, Dante - Favorite Team: Golden State Warriors
 
 ---
 
